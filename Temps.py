@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# --- Dados de Temperatura (Extraídos da sua entrada) ---
 # A estrutura é uma lista de tuplas, onde cada tupla representa uma Amostra:
 # (Sensor 0, Sensor 1, Sensor 2)
 dados_temperatura_brutos = [
