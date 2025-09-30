@@ -4,7 +4,7 @@ import csv
 
 # --- Configuração da porta ---
 PORTA = "COM3"   # troque para a porta do seu Arduino (ex: /dev/ttyUSB0 no Linux)
-BAUD = 115200
+BAUD = 9600
 
 # --- Arquivo CSV ---
 ARQUIVO = "dados.csv"
