@@ -4,7 +4,7 @@ import csv
 
 # CONFIGURAÇÃO
 PORTA = "COM3"      # Altere para sua porta COM
-BAUD = 9600
+BAUD = 115200
 ARQUIVO = "dados.csv"
 
 # CONEXÃO SERIAL
