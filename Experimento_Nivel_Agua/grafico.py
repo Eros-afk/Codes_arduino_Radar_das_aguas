@@ -8,8 +8,8 @@ df = pd.read_csv("dados.csv")
 df["tempo_s"] = df["tempo_ms"] / 1000.0
 
 # Gráfico 1: Nível da água (distância invertida) vs tempo
-# Supondo altura do recipiente = 30 cm
-ALTURA_RECIPIENTE = 30.0
+# Supondo altura do recipiente = 21 cm
+ALTURA_RECIPIENTE = 21.0
 df["nivel_agua"] = ALTURA_RECIPIENTE - df["distancia_cm"]
 
 plt.figure()
