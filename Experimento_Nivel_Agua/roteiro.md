@@ -1,4 +1,4 @@
-## Roteiro do experimento HC-SR04 medindo nível da água
+# Roteiro do experimento HC-SR04 medindo nível da água
 
 ### 1. Preparação
 
@@ -66,7 +66,3 @@
 * Discuta: limitações (espuma, ângulo, temperatura).
 
 ---
-
-👉 Esse roteiro já dá um experimento redondo, fácil de replicar e apresentável para artigo.
-
-Quer que eu já escreva a **seção Metodologia** do seu artigo em LaTeX seguindo exatamente esse roteiro?
