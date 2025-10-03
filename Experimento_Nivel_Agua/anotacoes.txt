@@ -1,0 +1,15 @@
+Sem água
+
+Sensor ao fundo = Altura total h
+
+H = 21cm
+
+Distancia do sensor = 27 metros
+
+-------------------------------
+
+Com água
+
+H = 11,5cm
+
+Distancia do sensor = 29 medidas averiguar as medidas para um padrão de amostras
