@@ -3,7 +3,7 @@ import time
 import csv
 
 # CONFIGURAÇÃO
-PORTA = "COM3"      # Altere para sua porta COM
+PORTA = "COM3"
 BAUD = 115200
 ARQUIVO = "dados.csv"
 
